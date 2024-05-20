@@ -10,7 +10,7 @@
     <a href="https://www.mmlab-ntu.com/person/ccloy/" target="_blank">Chen Change Loy</a><sup>1</sup>,
     <a href="https://liuziwei7.github.io/" target="_blank">Ziwei Liu</a><sup>1</sup>
 </div>-->
-<div>
+<!--<div>
     <sup>1</sup>S-Lab, Nanyang Technological University&emsp; <sup>2</sup>Shanghai AI Laboratory
 </div>
 
@@ -25,7 +25,7 @@
 
 :open_book: For more visual results, go checkout our <a href="https://yumingj.github.io/projects/Text2Performer.html" target="_blank">project page</a>
 
-</div>
+</div>-->
 
 ## Installation
 **Clone this repo:**
