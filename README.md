@@ -30,7 +30,7 @@
 ## Installation
 **Clone this repo:**
 ```bash
-git clone https://github.com/yumingj/Text2Performer.git
+git clone (https://github.com/manoharchippada/Text2Performer.git)
 cd Text2Performer
 ```
 
